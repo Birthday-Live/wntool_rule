@@ -1,8 +1,16 @@
-{
-  "id": "2026-11-21-02",
-  "title": "【求赞助】",
-  "content": "制作工具箱不容易哇 *QAQ* ，给窝点钱钱吧qwq，*其它公告加载不出来的问题后面再修qwq * ",
-  "images": [
-    "https://wntool-rule.waterchisato.top/png/mm_reward_qrcode_1795258187210.png"
-  ]
-}
+[
+  {
+    "id": "2026-11-21-01",
+    "title": "【系统测试公告】",
+    "content": "这里是 **Markdown** 格式的文字，支持换行和列表，用于 *测试* ",
+    "images": []
+  },
+  {
+    "id": "2026-11-21-02",
+    "title": "【求赞助】",
+    "content": "制作工具箱不容易哇 *QAQ* ，给窝点钱钱吧qwq",
+    "images": [
+      "https://wntool-rule.waterchisato.top/png/mm_reward_qrcode_1795258187210.png"
+    ]
+  }
+]
